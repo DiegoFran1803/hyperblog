@@ -5,6 +5,15 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+#cabecera{
+    text-align: center;
+    font-size: 1.4rem;
+    background-color: #4141b4;
+    color: white;
+    margin-bottom: 20px;
+    padding: 15px 0;
+}
+
 #container{
     width: 40%;
     margin: 30px auto;
