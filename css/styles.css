@@ -8,8 +8,10 @@
 #cabecera{
     text-align: center;
     font-size: 1.4rem;
-    border-bottom: solid 1px black;
+    background-color: #4141b4;
+    color: white;
     margin-bottom: 20px;
+    padding: 15px 0;
 }
 
 #container{
