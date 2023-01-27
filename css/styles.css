@@ -5,29 +5,47 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+body{
+    background-color: #0f0f0f;
+}
+
 #cabecera{
     text-align: center;
     font-size: 1.4rem;
-    background-color: #4141b4;
+    font-weight: bold;
+    background-color: #444242;
     color: white;
     margin-bottom: 20px;
     padding: 15px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#cabecera img{
+    width: 64px;
+    margin-right: 15px;
+}
+
+#cabecera span{
+    font-size: 1.8rem;
 }
 
 #container{
-    width: 40%;
+    width: 55%;
     margin: 30px auto;
     padding: 25px;
     border: solid 1px black;
-    color: green;
+    color: #04247c;
+    background-color: white;
 }
 
 #container h1{
     margin-bottom: 15px;
-    font-size: 2rem;
+    font-size: 2.4rem;
 }
 
 #container p{
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     margin-bottom: 10px;
 }
