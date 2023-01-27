@@ -31,3 +31,11 @@
     font-size: 1.2rem;
     margin-bottom: 10px;
 }
+
+footer{
+    padding: 10px;
+    text-align: center;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #050f2d;
+}
